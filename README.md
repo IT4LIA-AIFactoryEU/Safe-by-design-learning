@@ -303,16 +303,6 @@ The optional deep-dissipative reference can be installed separately:
 python -m pip install ./dataset_interfaces/baseline_interfaces/deep_dissipative_model
 ```
 
-## Paper
-
-**Safe-by-design Learning via Energy-Based Neural Networks**  
-Simone Betteti, Morteza Lahijanian, and Luca Laurenti.  
-Submitted to the International Conference on Learning Representations (ICLR
-2027).
-
-The vector source of the graphical abstract is available as
-[PDF](assets/graphical_abstract.pdf).
-
 ## Citation
 
 If this repository contributes to your research, please cite the accompanying
