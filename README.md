@@ -21,7 +21,7 @@
 > certified from the port-Hamiltonian energy balance.
 
 This repository is the complete implementation and artifact bundle accompanying
-the ICLR 2027 submission **“Safe-by-design Learning via Energy-Based Neural
+the submission **“Safe-by-design Learning via Energy-Based Neural
 Networks.”** It includes the pH-EBM model, six benchmark interfaces, frozen
 champions, adversarial PortHNN-u comparisons, theory-aligned stress tests, and
 the runtime HNER99 normalized-robustness workflow.
